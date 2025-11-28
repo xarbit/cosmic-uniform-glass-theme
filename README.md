@@ -1,10 +1,10 @@
 # Uniform Glass Dark Theme for COSMIC™ Desktop
 
-A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass-morphism design with smooth, uniform rounded corners and translucent backgrounds.
+A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass design with smooth, uniform rounded corners and translucent backgrounds.
 
 ## Features
 
-- **Glass-morphism Design**: Uniform Translucent backgrounds
+- **Glass Design**: Uniform Translucent backgrounds
 - **Uniform Rounded Corners**: Consistent 12px radius across all UI elements
 - **Optimized Dark Palette**: Carefully crafted neutral grays with vibrant accent colors
 - **Modern Color Scheme**: Rich blues, purples, pinks, and warm tones
